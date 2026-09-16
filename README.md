@@ -1,6 +1,1 @@
-A fileok nevében a számozás a tanárnő által felosztott oldalszámokra vonatkozik.
-
-
-már össze-vissza vannak lmao:O
-
-Na mostmár megcsináltam a számozást
+A tanár úr által összeállított tételsor pontjai is kidolgozásra fognak kerülni.
